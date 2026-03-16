@@ -4,6 +4,7 @@
 ## 📂 Repository Structure
 
 ### 1. MainQuest
+```text
 ├── Quest_01
 │   ├── quest_01.ipynb
 │   └── README.md
@@ -19,8 +20,10 @@
 └── Quest_05
     ├── quest_05.ipynb
     └── README.md
+```
 
 ### 2. Exploration
+```text
 ├── Quest_01
 │   ├── quest_01.ipynb
 │   └── README.md
@@ -45,8 +48,10 @@
 └── Quest_08
     ├── quest_08.ipynb
     └── README.md
+```
 
 ### 3. GoingDeeper
+```text
 ├── Quest_01
 │   ├── quest_01.ipynb
 │   └── README.md
@@ -74,3 +79,4 @@
 └── Quest_09
     ├── quest_09.ipynb
     └── README.md
+```
